@@ -59,7 +59,9 @@ output = retrieve_and_answer_question(retriever, query)
 
 This repository uses the paper "Attention Is All You Need" as an example.
 
-This repository uses https://github.com/cookbook/Semi_structured_and_multi_modal_RAG.ipynb as reference
+This repository uses https://github.com/cookbook/Semi_structured_and_multi_modal_RAG.ipynb as reference. 
+
+:)
 
 
 
